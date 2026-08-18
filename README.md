@@ -38,7 +38,7 @@
 ```bibtex
 @misc{zhang2026pnp,
   author = {Zhang, Xun},
-  title = {四维庞加莱流形上的公理系统与 P vs. NP 证明},
+  title = {四维庞加莱流形上的公理系统与 P ≠ NP 证明},
   year = {2026},
   doi = {10.5281/zenodo.21618022},
   url = {https://doi.org/10.5281/zenodo.21618022}
